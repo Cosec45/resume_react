@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import "./App.css";
-import myImage from './img/1675232570338.jpg'; 
+// import myImage from './img/1675232570338.jpg'; 
 
 function App() {
 //   const itemStyleaa = {
@@ -130,7 +130,7 @@ function App() {
                         <div class="col-sm-12 col-md-5 col-lg-5">
                           <div class="home-photo">
                             <div class="hp-inner" >
-                            <img src={myImage} alt="Description of the image" class="picture" />
+                            <img src='./img/1675232570338.jpg' alt="Description of the image" class="picture" />
                             </div>
                           </div>
                         </div>
